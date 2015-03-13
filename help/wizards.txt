@@ -1,0 +1,8 @@
+
+Wizard Commands
+---------------
+
+Benedictions: dig, evolve, design, define, connect, cue
+     Scrying: scenes, props, actors
+    Psionics: teleport
+

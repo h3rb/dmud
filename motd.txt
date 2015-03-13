@@ -1,0 +1,2 @@
+Welcome to the game!
+Press enter to continue:

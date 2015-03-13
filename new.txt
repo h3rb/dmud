@@ -1,0 +1,4 @@
+You are about to create a new character,
+which involves choosing a gender, discipline
+and accepting statistics.  Welcome to pMUD!
+
